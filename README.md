@@ -1,4 +1,4 @@
-# <p align="center"> PowerBI-Template_by_malho </p>
+# <p align="center"> PowerBI Template </p>
 
 Short example of possible PowerBI work, performed according the business and teams needs.
 
